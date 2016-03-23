@@ -5,15 +5,15 @@
 /* styles from flat-ui-free2.0.0-fix.less files */
 body {
   color: #34495e;
-font-family: 'Raleway', sans-serif;
-font-size: 20px;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
   line-height: 1.231;
 }
 input,
 button,
 select,
 textarea {
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
 a {
@@ -517,7 +517,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #2c3e50;
 }
 h1 {
@@ -845,7 +845,7 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 
 .header-10 h2 h3 {
-   font-family: 'Vollkorn', serif;
+   font-family: 'livory';
 }
 
 .header-10 .header-background {
@@ -869,8 +869,8 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   font-variant: normal;
   color: #2D8BC9;
   /*CHANGED*/
-font-family: 'Raleway', sans-serif;
-    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+   font-family: 'proxima-nova';
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-weight: 1--;
 }
 
@@ -1069,14 +1069,14 @@ font-family: 'Raleway', sans-serif;
   /*color: #ffffff;*/
   color: #22313F;
   /*CHANGED THINGS*/
-  font-family: 'Vollkorn', serif;
+  font-family: "livory" ,"Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 .header-10-sub .hero-unit p {
   font-size: 25px;
   font-weight: normal;
   color: #bdc3c7;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory" , "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 37.5px;
 }
@@ -1085,7 +1085,7 @@ font-family: 'Raleway', sans-serif;
     font-size: 32px;
     font-weight: normal;
     color: #ffffff;
-    font-family: 'Vollkorn', serif;
+    font-family: "livory" , "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
   }
   .header-10-sub .hero-unit p {
@@ -1098,11 +1098,11 @@ font-family: 'Raleway', sans-serif;
 }
 .header-10-sub .hero-unit.hero-unit-bordered h1 {
   font-size: 46px;
-  font-weight: bold;
-  font-weight: 400;
+  font-weight: normal;
+  font-weight: 500;
   color: #22313F;
   /*CHANGED THINGS*/
-  font-family: 'Vollkorn', serif;
+  font-family: "livory" , Helvetica, Arial, sans-serif;
   border: 8px solid #ffffff;
   background-color: rgba(236, 240, 241,0.8);
   display: inline-block;
@@ -1114,7 +1114,7 @@ font-family: 'Raleway', sans-serif;
     font-size: 27px;
     font-weight: 500;
     color: #22313F;
-    font-family: 'Vollkorn', serif;
+    font-family: "livory" , Helvetica, Arial, sans-serif;
     font-weight: 500;
   }
 }
@@ -1178,7 +1178,7 @@ font-family: 'Raleway', sans-serif;
   font-size: 42px;
   font-weight: normal;
   color: #2c3e50;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 50px;
   text-align: center;
@@ -1202,7 +1202,7 @@ font-family: 'Raleway', sans-serif;
 
 .content-15 p {
   font-size: 20px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   font-weight: normal;
   color: #7f8c8d;
 }
@@ -1215,7 +1215,7 @@ font-family: 'Raleway', sans-serif;
   font-size: 33px;
   font-weight: normal;
   color: #e74c3c;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
 }
 .content-15 .features h6:first-child {
@@ -1308,7 +1308,8 @@ font-family: 'Raleway', sans-serif;
   padding-bottom: 110px;
 }
 .projects-3 h3 {
-font-family: 'Raleway', sans-serif;  margin: 0 0 80px;
+  font-family: "proxima-nova";
+  margin: 0 0 80px;
   font-size: 40px;
   font-weight: 600;
   font-variant: normal;
@@ -1391,7 +1392,8 @@ font-family: 'Raleway', sans-serif;  margin: 0 0 80px;
 }
 .projects-3 .projects .info {
   text-align: center;
-font-family: 'Raleway', sans-serif;  font-size: 20px;
+  font-family: "proxima-nova";
+  font-size: 20px;
   /*color: #95a5a6;*/
   color: #FCFCFC;
   margin-top: 43px;
@@ -1403,7 +1405,7 @@ font-family: 'Raleway', sans-serif;  font-size: 20px;
   /*color: #34495e;*/
   /*CHANGED THINGS*/
   color: #34495e;
-  font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova";
   font-size: 23px;
   font-weight: 700;
   margin-bottom: 10px;
@@ -1461,7 +1463,7 @@ color: #1ABC9C;
   font-size: 40px;
   font-weight: 600;
   color: #2c3e50;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 24px;
   font-weight: 300;
 }
@@ -1469,7 +1471,7 @@ color: #1ABC9C;
   font-size: 20px;
   font-weight: normal;
   color: #7f8c8d;
-  font-family: 'Vollkorn', serif;
+    font-family: "livory";
   line-height: 30px;
 }
 .content-9 h6 {
@@ -1477,11 +1479,11 @@ color: #1ABC9C;
   font-size: 23px;
   font-weight: normal;
   color: #34495e;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
 }
 .content-9 .info {
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   font-size: 20px;
   font-weight: normal;
   color: #7f8c8d;
@@ -1654,7 +1656,7 @@ color: #1ABC9C;
   text-align: center;
   font-size: 40px;
   font-weight: normal;
- font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #7f8c8d;
   background: #34495E;
   font-weight: 300;
@@ -1696,7 +1698,7 @@ color: #1ABC9C;
   text-align: center;
   font-size: 40px;
   font-weight: normal;
- font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#ecf0f1;
   /*background: #2980b9;*/
   background: #4ea1d8;
@@ -1745,7 +1747,7 @@ color: #1ABC9C;
   font-size: 25px;
   font-weight: normal;
   color: #34495e;
-font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 18px;
 }
@@ -1760,7 +1762,7 @@ font-family: 'Raleway', sans-serif;
   font-variant: small-caps;
   color: #34495e;
   font-weight: 300;
-font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: none;
 }
 @media (max-width: 767px) {
@@ -1915,7 +1917,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 .footer-6 p {
-font-family: 'Raleway', sans-serif;
+  font-family: 'proxima-nova';
   font-size: 12px;
   font-weight: 100;
 }
@@ -1924,7 +1926,7 @@ font-family: 'Raleway', sans-serif;
  * Blog 3 stylesheet
  * */
 .blog-3 {
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   padding-top: 130px;
   padding-bottom: 130px;
 }
@@ -1942,7 +1944,7 @@ font-family: 'Raleway', sans-serif;
 
 
 .blog-3 p {
- font-family: 'Vollkorn', serif;
+ font-family: "livory";
  color: #2C3E50;
  font-weight: 300;
   margin: 0;
@@ -1953,7 +1955,7 @@ font-family: 'Raleway', sans-serif;
 .blog-3 h6 {
   font-size: 20px;
   /*CHANGED*/
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   margin: 0 0 25px;
   text-transform: none;
@@ -1964,7 +1966,7 @@ font-family: 'Raleway', sans-serif;
 }
 .blog-3 .title h3 {
   font-size: 45px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   margin: 0;
   font-weight: 300;
   letter-spacing: -1px;
@@ -1972,7 +1974,7 @@ font-family: 'Raleway', sans-serif;
 
 .blog-3 .title h4 {
   font-size: 35px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   margin: 0;
   font-weight: 300;
   letter-spacing: -1px;
@@ -2021,7 +2023,7 @@ font-family: 'Raleway', sans-serif;
   margin-bottom: 35px;
   font-size: 37px;
   line-height: 50px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #2c3e50;
   letter-spacing: -1px;
   font-weight: 300;
@@ -2048,7 +2050,7 @@ font-family: 'Raleway', sans-serif;
 .blog-3 .links,
 .blog-3 .links * {
   font-size: 13px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.2em;
@@ -2068,7 +2070,7 @@ font-family: 'Raleway', sans-serif;
   /*Changing the green to some other color*/
   color: #2E8ECE;
   font-size: 20px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   text-transform: none;
   letter-spacing: normal;
@@ -2089,7 +2091,7 @@ font-family: 'Raleway', sans-serif;
 
 
 .blog-3 h3 {
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   font-size: 33px;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -2107,13 +2109,13 @@ font-family: 'Raleway', sans-serif;
 
 /*This is for a regular page*/
 .post {
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   padding-top: 50px;
   padding-bottom: 50px;
 }
 
 .post h1 {
-  font-family: 'Vollkorn', serif;
+  font-family: "livory";
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -2128,14 +2130,14 @@ font-family: 'Raleway', sans-serif;
 .post  a {
   color: #2B86C2;
   font-size: 20px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 
 .post td {
   color: #2C3E50;
   font-size: 20px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   text-transform: none;
   letter-spacing: normal;
@@ -2143,7 +2145,7 @@ font-family: 'Raleway', sans-serif;
 .post th {
   color: #2C3E50;
   font-size: 22px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   text-transform: none;
   letter-spacing: normal;
@@ -2152,7 +2154,7 @@ font-family: 'Raleway', sans-serif;
 .post p {
   color: #2C3E50;
   font-size: 20px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   padding-top: 10px;
 }
@@ -2161,7 +2163,7 @@ font-family: 'Raleway', sans-serif;
 
 
 .wufoo .info {
-    font-family: 'Vollkorn', serif;
+    font-family: "livory","Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 /**
  * Copntact 1 stylesheet
@@ -2185,7 +2187,7 @@ font-family: 'Raleway', sans-serif;
 .contacts-1 h6,
 .contacts-1 .h6 {
   margin: 0 0 12px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory","Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   font-size: 18px;
   text-transform: none;
@@ -2258,7 +2260,7 @@ font-family: 'Raleway', sans-serif;
 }
 .contacts-1 .phone {
   font-size: 13px;
-  font-family: 'Vollkorn', serif;
+  font-family: "livory","Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 2px;
   line-height: 1.2;
@@ -2308,7 +2310,7 @@ font-family: 'Raleway', sans-serif;
   padding-bottom: 25px;
 }
 .crew-3 h3 {
- font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova";
   margin: 0 0 25px;
   font-size: 40px;
   font-weight: 600;
@@ -2391,7 +2393,7 @@ font-family: 'Raleway', sans-serif;
 }
 .crew-3 .projects .info {
   text-align: center;
-font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova";
   font-size: 15px;
   /*color: #95a5a6;*/
   color: #34495E;
@@ -2399,7 +2401,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 .crew-3 li {
-    font-family: 'Vollkorn', serif;
+    font-family: "livory";
   font-size: inherit;
   color: #2C3E50;
   line-height: 1.5em;
@@ -2412,7 +2414,7 @@ font-family: 'Raleway', sans-serif;
   /*color: #34495e;*/
   /*CHANGED THINGS*/
   color: #22313F;
-font-family: 'Raleway', sans-serif;
+  font-family: "proxima-nova";
   font-size: 23px;
   font-weight: 700;
   margin-bottom: 10px;
@@ -2465,7 +2467,7 @@ font-family: 'Raleway', sans-serif;
 #sidebar li {
   border:0 #f2f2f2 solid;
   border-bottom-width:1px;
- font-family: 'Raleway', sans-serif;
+  font-family: 'proxima-nova';
   font-size: 90%;
   font-variant: small-caps;
 }
@@ -2502,7 +2504,7 @@ font-family: 'Raleway', sans-serif;
   #sidebar {
     background-color:#3b3b3b;
     padding-top:0;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'proxima-nova';
     font-variant: small-caps;
   }
   #sidebar .nav>li {
