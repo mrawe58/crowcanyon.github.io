@@ -2,7 +2,7 @@ permalink: /news/:categories/:year/:month/:day/:title
 
 paginate_path: "news/page:num"
 paginate: 3
-highlighter: pygments
+highlighter: rouge
 
 deploy: false
 encoding: utf-8
