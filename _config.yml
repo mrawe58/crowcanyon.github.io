@@ -1,0 +1,12 @@
+permalink: /news/:categories/:year/:month/:day/:title
+
+paginate_path: "news/page:num"
+paginate: 3
+highlighter: pygments
+
+deploy: false
+encoding: utf-8
+
+gems: ['jekyll-paginate']
+
+exclude: ['*.Rmd']
