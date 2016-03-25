@@ -1,0 +1,10 @@
+---
+layout: person
+category: people
+name: Robin Lyle
+
+projects:
+
+---
+
+Robin Lyle began her academic career in agricultural sciences, receiving a BS in Animal Science and an MS degree in Poultry Science from Colorado State University in 1966, specializing in poultry genetics.  Various scientific undertakings over the ensuing decades have included: soil microbiological research with the USDA; math and science education in US Air Force schools in Europe; organizing an Agricultural session for a Los Alamos, Women In Science Conference and Peace Core Trainer for an agricultural mission to Mali, West Africa.  She and her Veterinarian husband John owned and operated a Small Animal Clinic in Santa Fe, NM for over 25 years. As a veterinary technician she was also a poultry consultant for local 4-H and NM Extension Service youth groups.  Academic studies in Anthropology at Santa Fe Community College and Ft Lewis College led to research opportunities with the Office of Archaeological Studies (M of NM), the Anasazi Heritage Center in Dolores, CO, Crow Canyon Archaeological Center in Cortez, CO and Mesa Verde National Park. Mentored and challenged by colleagues, she has devoted the last 20 years to experimentation in artifact analysis, faunal interpretative research and the application of biology and agricultural science to understanding ancient husbandry, especially turkeys. Research collaborations at Crow Canyon have produced several analysis protocols, contributions to reports, and popular articles. Ongoing research with ancient turkey faunal assemblages, ancient genetics, diet and ritual burials plus gizzard stone studies has continued to generate new collaborations. She has shared her findings with archaeologists through presentations and posters at numerous SW Regional and National conferences. Publications in the Journal Kiva (2012) and American Antiquity (2016) further the understanding of the ancient turkey/human interaction in the American Southwest.
