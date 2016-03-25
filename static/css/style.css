@@ -2314,6 +2314,13 @@ font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-variant: normal;
 }
+.crew-3 p {
+ font-family: 'Raleway', sans-serif;
+  margin: 0 0 25px;
+  font-size: 20px;
+  font-weight: 400;
+  font-variant: normal;
+}
 .crew-3 .projects {
   display: table;
   width: 100%;
@@ -2415,6 +2422,32 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Raleway', sans-serif;
   font-size: 23px;
   font-weight: 700;
+  margin-bottom: 10px;
+  -webkit-transition: color 0.4s;
+  -moz-transition: color 0.4s;
+  -o-transition: color 0.4s;
+  transition: color 0.4s;
+}
+
+.crew-3 .projects .name a {
+color: #22313F;
+font-family: 'Raleway', sans-serif;
+  font-size: 23px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  -webkit-transition: color 0.4s;
+  -moz-transition: color 0.4s;
+  -o-transition: color 0.4s;
+  transition: color 0.4s;
+}
+
+.crew-3 .projects .title {
+  /*color: #34495e;*/
+  /*CHANGED THINGS*/
+  color: #22313F;
+font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+  font-weight: 500;
   margin-bottom: 10px;
   -webkit-transition: color 0.4s;
   -moz-transition: color 0.4s;
