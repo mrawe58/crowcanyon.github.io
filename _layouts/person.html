@@ -1,33 +1,45 @@
 {% include header_person.html %}
-<section class="blog-3">
-    <div class="container">
-        <div class="title">
-            <img src="{{ site.url }}/assets/common-files/img/content/CCAC_logo.svg" alt="">
-            <h3>{{ page.name }}</h3>
-        </div>
-        <div class="row">
-            <div class="col-sm-8 col-sm-offset-2">
-                {{ content }}
+
+<body>
+     {% include navbar.html %}
+    <div class="page-wrapper">
+
+       
+
+        <section class="blog-3">
+            <div class="container">
+                <div class="title">
+                    <img src="{{ site.url }}/assets/common-files/img/content/CCAC_logo.svg" alt="">
+                    <h3>{{ page.name }}</h3>
+                </div>
+                <div class="row">
+                    <div class="col-sm-8 col-sm-offset-2">
+                        
+                        {{ content }}
+                        
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>
 
-</section>
+        </section>
 
-<!-- The tags -->
-<div class="container">
-    <div class="col-sm-8 col-sm-offset-2">
-        {% for project in page.projects %}
-        <a href="/projects/{{ project }}" class="badge badge-success">
-            <span class="project_tag">
+        <!-- The tags -->
+        <div class="container">
+            <div class="col-sm-8 col-sm-offset-2">
+                {% for project in page.projects %}
+                <a href="/projects/{{ project }}" class="badge badge-success">
+                    <span class="project_tag">
                 {{ project }}
             </span>
-        </a>
-        {% if forloop.last != true %}
-        {% endif %}
-        {% endfor %}
-    </div>
-</div>
-<!-- End tags -->
+                </a>
+                {% if forloop.last != true %}
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+        <!-- End tags -->
 
-{% include footer.html %}
+        {% include footer.html %}
+
+    </div>
+</body>
