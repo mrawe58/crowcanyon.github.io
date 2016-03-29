@@ -373,24 +373,6 @@ button:active {
     outline: none;
 }
 
-#bgVideo {
-    overflow: hidden;
-}
-
-#bgVideo > video {
-    position: absolute !important;
-}
-
-.delimiter {
-    margin-top: 200px;
-}
-
-.delimiter.line {
-    margin-top: 150px;
-    margin-bottom: 150px;
-    border-top: 2px solid #ebedee;
-}
-
 section * {
     z-index: 2;
 }
@@ -428,15 +410,6 @@ section * {
 
 .navbar .nav > li > a {
     color: black;
-}
-
-.navbar .nav > li > a:hover,
-.navbar .nav > li > a:focus,
-.navbar .nav > li > a.active,
-.navbar .nav > li.active > a:hover,
-.navbar .nav > li.active > a:focus,
-.navbar .nav > li.active > a.active {
-    color: #2CC36B;
 }
 
 .navbar .brand {
