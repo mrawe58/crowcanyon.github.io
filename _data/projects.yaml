@@ -1,0 +1,50 @@
+- name: "VEP: The Village Ecodynamics Project"
+  tag: VEP
+  url: http://village.anth.wsu.edu/
+  date: 2002–now
+#  languages: [French]
+#  frameworks: [Oven]
+  desc: >
+    The VEP is a network of archaeologists, geologists, 
+    geographers, computer scientists and economists seeking to explain key 
+    aspects of the late prehistory of the northern Southwest through empirical 
+    research and modeling.
+
+- name: "SKOPE: Synthesizing Knowledge of Past Environments"
+  tag: SKOPE
+  url: http://www.envirecon.org/
+  date: 2014-now
+#  languages: [German, Dutch, English]
+  desc: >
+    SKOPE is an effort to bring paleoenvirnomental data to researchers and the public
+    through an intuitive, map-based user interface, and also to improve the capacity
+    of researchers to do reproducible paleoenvirnomenal research.
+    The project is a collaboration between Crow Canyon, Washington State University,
+    Arizona State University, and the National Center for Supercomputing Applications
+    at the University of Illinois, Urbana-Champaign.
+
+- name: The Pueblo Farming Project
+  tag: PFP
+  url: http://www.crowcanyon.org/index.php/pueblo-farming-project
+  date: 2008–now
+  thumbnail: /assets/common-files/img/projects/corn.jpg
+#  languages: [JavaScript]
+#  frameworks: [HTML5, CSS]
+  desc: >
+    The Pueblo Farming Project is a collaboration between Crow Canyon and Hopi
+    traditional farmers to understand ancient maize (corn) agriculture in the Mesa Verde region
+    through documenting traditional ecological knowledge, experimental gardens, and genetic analysis.
+    Since summer of 2009, Hopi farmers have traveled to Crow Canyon to plant maize gardens on the
+    Crow Canyon campus. We've found that traditional varieties of Hopi corn, when planted using 
+    Hopi cultivation methods, grow well in the Mesa Verde region.
+
+- name: The Crow Canyon Database Project
+  tag: data
+#  url: http://www.crowcanyon.org/index.php/pueblo-farming-project
+  date: 2014–now
+#  thumbnail: /assets/common-files/img/projects/corn.jpg
+#  languages: [JavaScript]
+#  frameworks: [HTML5, CSS]
+  desc: >
+    The Crow Canyon Database Project seeks to upgrade both the back-end and front-end access
+    to the Crow Canyon research database.

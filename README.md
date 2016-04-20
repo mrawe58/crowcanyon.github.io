@@ -9,7 +9,7 @@ The Research Institute website is built on a very simple software stack, includi
 
 __License__
 
-For more information see the [LICENSE](https://github.com/crowcanyon/crowcanyon.github.io/LICENSE) file. © Crow Canyon Archaeological Center 2016.
+For more information see the [LICENSE](http://crowcanyon.github.io/LICENSE) file. © Crow Canyon Archaeological Center 2016.
 
 -------
 #### Cloning, Building, and Deploying to GitHub Pages
