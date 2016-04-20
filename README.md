@@ -1,23 +1,77 @@
 
-!['research institute website'](http://crowcanyon.github.io/assets/common-files/img/content/institute_logo_complete.png)
+!['research institute website'](http://crowcanyon.github.io/assets/common-files/img/content/Institute_logo_complete.svg)
 
+#### Welcome!
 
-This is repo for the [Research Institute at Crow Canyon's website](http://crowcanyon.github.io/). To build the site, clone the repo and run. If you don't have the appropriate gems,  you will have to bundle install before running jekyll.
+This is git repository for the [Research Institute at Crow Canyon's website](http://institute-test.crowcanyon.org/). The [Crow Canyon Archaeological Center](http://www.crowcanyon.org/) is a 501(c)3 nonprofit organization whose mission is to advance and share knowledge of the human experience through archaeological research, education programs, and partnerships with American Indians. The Research Institute serves to integrate scholarly activities across Crow Canyon and to coordinate collaborations with external researchers, including Native American scholars.
 
-
-```
-# To build the site
-jekyll build
-```
-
-You can test out the site locally by cloning this repository and running
-
-```
-jekyll serve --watch
-```
-and previewing the site at `http://localhost:4000`
+The Research Institute website is built on a very simple software stack, including [Jekyll](https://jekyllrb.com/) for creating a static, blog-aware site, [Bootstrap](http://getbootstrap.com/) for a mobile-ready user interface, and [jQuery](https://jquery.com/) for client-side scripting. It is built and hosted on GitHub Pages, a free resource for building, versioning, and hosting static websites for projects and organizations.
 
 __License__
 
-For more information see the [LICENSE](https://github.com/crowcanyon/crowcanyon.github.io/LICENSE) file. © Crow Canyon Archaeological Center 2016
+For more information see the [LICENSE](https://github.com/crowcanyon/crowcanyon.github.io/LICENSE) file. © Crow Canyon Archaeological Center 2016.
+
+-------
+#### Cloning, Building, and Deploying to GitHub Pages
+
+To begin understanding how Jekyll and GitHub Pages work together, check out [Jonathan McGlone's fantastic how-to guide](http://jmcglone.com/guides/github-pages/) on setting up a site on Github Pages. For a basic overview of what git and version-control repositories are, have a look at the [GitHub Guides](https://guides.github.com/).
+
+##### Installing command-line tools
+To manage this (and any other GitHub Pages site), you must install several command-line tools, including [git](https://git-scm.com/), [Ruby](https://www.ruby-lang.org/en/), and the Jekyll and github-pages Ruby gems. To install the Ruby gems, run the following:
+
+```
+$ gem install github-pages
+
+```
+
+This website also uses the jekyll-paginate gem. Install with:
+
+```
+$ gem install jekyll-paginate
+
+```
+
+##### Cloning the repository
+Once you have git, Ruby, and Jekyll installed, you can clone or fork this repository to your local machine to start developing. Do so by using the  `git clone` command:
+
+```
+$ git clone https://github.com/crowcanyon/crowcanyon.github.io
+
+```
+
+##### Building the site locally
+To build the site, navigate to the cloned directory (which should be called `crowcanyon.github.io`), and run:
+
+```
+$ jekyll build
+
+```
+
+##### Deploying the site locally
+You can test the site locally by running:
+```
+$ jekyll serve
+
+```
+Preview the site at `http://localhost:4000` on a Linux or Windows machine, or `http://127.0.0.1:4000/` on OS X. This is a live preview, so changes you make to files in the `crowcanyon.github.io` will be reflected in the locally served site.
+
+##### Pushing changes to the site
+Once you are ready to push new changes to the site (and if you have the appropriate credentials), you first `commit` your changes to your local repository, then `push` those changes to the remote repository on GitHub. Do so like this:
+
+```
+# Add all of the changed files to the commit
+$ git add .
+
+# Commit the changes to the local repository with the specified message
+$ git commit -m "SOME COMMIT MESSAGE HERE DESCRIBING YOUR CHANGES"
+
+# Pust the changes to the remote repository
+$ git push
+
+```
+
+The Jekyll website will be automatically re-built by GitHub upon committing to the remote repository, and your changes will be reflected on the live website.
+
+##### Permissions
+To request push permissions for this repository, please contact the IT helpdesk at Crow Canyon: [mailto:help@crowcanyon.org](help@crowcanyon.org).
 
