@@ -5,7 +5,7 @@
 
 This is git repository for the [Research Institute at Crow Canyon's website](http://institute-test.crowcanyon.org/). The [Crow Canyon Archaeological Center](http://www.crowcanyon.org/) is a 501(c)3 nonprofit organization whose mission is to advance and share knowledge of the human experience through archaeological research, education programs, and partnerships with American Indians. The Research Institute serves to integrate scholarly activities across Crow Canyon and to coordinate collaborations with external researchers, including Native American scholars.
 
-The Research Institute website is built on a very simple software stack, including [Jekyll](https://jekyllrb.com/) for creating a static, blog-aware site, [Bootstrap](http://getbootstrap.com/) for a mobile-ready user interface, and [jQuery](https://jquery.com/) for client-side scripting. It is built and hosted on GitHub Pages, a free resource for building, versioning, and hosting static websites for projects and organizations.
+The Research Institute website is built on a very simple software stack, including [Jekyll](https://jekyllrb.com/) for creating a static, blog-aware site, [Bootstrap](http://getbootstrap.com/) for a mobile-ready user interface, [Liquid](https://shopify.github.io/liquid/) for nearly effortless templating, and [jQuery](https://jquery.com/) for client-side scripting. It is built and hosted on GitHub Pages, a free resource for building, versioning, and hosting static websites for projects and organizations.
 
 __License__
 
