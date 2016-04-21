@@ -1,9 +1,37 @@
+- name: Inspiring Students
+  tag: INSPIRE
+  url: http://www.crowcanyon.org/index.php/inspiring-students-project
+  date: 2014–now
+  thumbnail:
+  desc: >
+    The Inspiring Students Project is a partnership between Pueblo communities and the Crow Canyon Archaeological Center to develop student programs focused on issues that Pueblo people themselves have identified as priorities: the preservation of their native languages, cultures, and histories; providing culturally relevant educational experiences that inspire students to succeed academically and professionally; and creating more economic opportunities within native communities.
+
+- name: "PFP: The Pueblo Farming Project"
+  tag: PFP
+  url: http://www.crowcanyon.org/index.php/pueblo-farming-project
+  date: 2008–now
+  thumbnail: /assets/common-files/img/projects/pfp.jpg
+  desc: >
+    The Pueblo Farming Project is a collaboration between Crow Canyon and Hopi
+    traditional farmers to understand ancient maize (corn) agriculture in the Mesa Verde region
+    through documenting traditional ecological knowledge, experimental gardens, and genetic analysis.
+    Since summer of 2009, Hopi farmers have traveled to Crow Canyon to plant maize gardens on the
+    Crow Canyon campus. We've found that traditional varieties of Hopi corn, when planted using 
+    Hopi cultivation methods, grow well in the Mesa Verde region.
+    
+- name: "BCP: The Basketmaker Communities Project"
+  tag: BCP
+  url: http://www.crowcanyon.org/index.php/basketmaker-communities-project
+  date: 2011–2016
+  thumbnail:
+  desc: >
+    Starting in 2011, Crow Canyon archaeologists, assisted by student and adult participants in the Center’s archaeology programs, began field investigations at selected Basketmaker III sites in Indian Camp Ranch. Because relatively little is known about this early chapter in Pueblo history―and because this was Crow Canyon’s first foray into Basketmaker archaeology―researchers had many questions. Where did the Pueblo people who first settled the central Mesa Verde region come from? How and why did early communities develop? What impact did a growing farming population have on the environment? And what are the environmental and social legacies of the Basketmakers on later Pueblo populations in the region?
+    
 - name: "VEP: The Village Ecodynamics Project"
   tag: VEP
   url: http://village.anth.wsu.edu/
   date: 2002–now
-#  languages: [French]
-#  frameworks: [Oven]
+  thumbnail: /assets/common-files/img/projects/vep.jpg
   desc: >
     The VEP is a network of archaeologists, geologists, 
     geographers, computer scientists and economists seeking to explain key 
@@ -14,7 +42,7 @@
   tag: SKOPE
   url: http://www.envirecon.org/
   date: 2014-now
-#  languages: [German, Dutch, English]
+  thumbnail: /assets/common-files/img/projects/skope.jpg
   desc: >
     SKOPE is an effort to bring paleoenvirnomental data to researchers and the public
     through an intuitive, map-based user interface, and also to improve the capacity
@@ -23,28 +51,20 @@
     Arizona State University, and the National Center for Supercomputing Applications
     at the University of Illinois, Urbana-Champaign.
 
-- name: The Pueblo Farming Project
-  tag: PFP
-  url: http://www.crowcanyon.org/index.php/pueblo-farming-project
-  date: 2008–now
-  thumbnail: /assets/common-files/img/projects/corn.jpg
-#  languages: [JavaScript]
-#  frameworks: [HTML5, CSS]
+- name: The Northern Chaco Outliers Project
+  tag: NCOP
+  url:
+  date: 2016–now
+  thumbnail:
   desc: >
-    The Pueblo Farming Project is a collaboration between Crow Canyon and Hopi
-    traditional farmers to understand ancient maize (corn) agriculture in the Mesa Verde region
-    through documenting traditional ecological knowledge, experimental gardens, and genetic analysis.
-    Since summer of 2009, Hopi farmers have traveled to Crow Canyon to plant maize gardens on the
-    Crow Canyon campus. We've found that traditional varieties of Hopi corn, when planted using 
-    Hopi cultivation methods, grow well in the Mesa Verde region.
-
+    ...
+    
 - name: The Crow Canyon Database Project
-  tag: data
-#  url: http://www.crowcanyon.org/index.php/pueblo-farming-project
-  date: 2014–now
-#  thumbnail: /assets/common-files/img/projects/corn.jpg
-#  languages: [JavaScript]
-#  frameworks: [HTML5, CSS]
+  tag: CCAC-DATA
+  url:
+  date: 2015–now
+  thumbnail:
   desc: >
     The Crow Canyon Database Project seeks to upgrade both the back-end and front-end access
     to the Crow Canyon research database.
+    

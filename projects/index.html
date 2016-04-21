@@ -33,6 +33,7 @@ title: "The Research Institute Projects"
                 </div>
             
                 <div class="clearfix"></div>
+                <br>
             
                 <div class="col-xs-4">
                     <div class="text-center">
@@ -46,7 +47,7 @@ title: "The Research Institute Projects"
                                     {{ project.thumbnail | prepend: site.baseurl }}
                                 {% endcapture %}
                             {% endif %}
-                            <img class="img-responsive img-rounded" src="{{ thumbnail }}">
+                            <img class="img-responsive img-rounded" src="{{ thumbnail }}" width="400">
                         {% else %}
                             <h1 class="poorman-thumbnail" style="background: {% cycle 'c': " #48c ", "#fa4 ", "#5b5 ", "#d54 " %};">
                                 {{ project.name | truncate: 1, '' }}
@@ -62,35 +63,8 @@ title: "The Research Institute Projects"
                                 <i class="fa fa-calendar-o"></i>
                                 {{ project.date }}
                             </span>
-                            {% if project.languages %}
-                                &nbsp;
-                            {% endif %}
                         {% endif %}
                 
-                        {% for language in project.languages %}
-                            <span class="label label-default">
-                                <i class="fa fa-fw fa-language"></i>
-                                {{ language }}
-                            </span>
-                    
-                            {% unless forloop.last %}
-                                &nbsp;
-                            {% endunless %}
-                    
-                            {% if project.frameworks %}
-                                &nbsp;
-                            {% endif %}
-                        {% endfor %}
-                    
-                        {% for framework in project.frameworks %}
-                            <span class="label label-default">
-                                <i class="fa fa-fw fa-wrench"></i>
-                                {{ framework }}
-                            </span>
-                            {% unless forloop.last %}
-                                &nbsp;
-                            {% endunless %}
-                        {% endfor %}
                     </p>
                     {{ project.desc | markdownify }}
                 </div>
