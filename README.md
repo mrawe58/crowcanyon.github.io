@@ -55,6 +55,17 @@ $ jekyll serve
 ```
 Preview the site at `http://localhost:4000` on a Linux or Windows machine, or `http://127.0.0.1:4000/` on OS X. This is a live preview, so changes you make to files in the `crowcanyon.github.io` will be reflected in the locally served site.
 
+##### Making changes
+This website is designed to maximaze abstraction using Liquid templating; most of the repeated elements that appear in the compiled web pages are constructed from Liquid templates and YAML serialized data. For example, the [Projects](http://crowcanyon.github.io/Projects/) and [People](http://crowcanyon.github.io/Projects/) pages are built this way. The YAML data exist in the `_data` directory, and the templates in the respective `index.html` files for each page.
+
+There are four datasets in particular:
+- `_data/projects.yaml` contains the information and links to each of Crow Canyon's research projects
+- `_data/staff.yaml` contains information about the Crow Canyon research staff
+- `_data/volunteers.yaml` contains information about the Crow Canyon research volunteers
+- `_data/associates.yaml` contains information about the Crow Canyon Research Associates
+
+When you make edits to any of these files, and push your changes to GitHub, the static People and Projects pages are automatically rebuilt.
+
 ##### Pushing changes to the site
 Once you are ready to push new changes to the site (and if you have the appropriate credentials), you first `commit` your changes to your local repository, then `push` those changes to the remote repository on GitHub. Do so like this:
 
