@@ -111,12 +111,12 @@
   projects:
   desc:
   
-- name: Sharon Milholland
-  title: Director of Programs
-  photo: sharon_milholland.jpg
-  url: 
-  projects:
-  desc:
+#- name: Sharon Milholland
+#  title: Director of Programs
+#  photo: sharon_milholland.jpg
+#  url: 
+#  projects:
+#  desc:
   
 - name: Sarah Payne
   title: Director of Cultural Explorations
@@ -155,12 +155,12 @@
   projects:
   desc:
   
-- name: Dan Simplicio
-  title: Cultural Specialist
-  photo: dan_simplicio.jpg
-  url: 
-  projects:
-  desc:
+#- name: Dan Simplicio
+#  title: Cultural Specialist
+#  photo: dan_simplicio.jpg
+#  url: 
+#  projects:
+#  desc:
   
 - name: Caitlin Sommer
   title: Supervisory Archaeologist
