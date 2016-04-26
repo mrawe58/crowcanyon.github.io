@@ -1,10 +1,10 @@
-- name: Inspiring Students
-  tag: INSPIRE
-  url: http://www.crowcanyon.org/index.php/inspiring-students-project
-  date: 2014–now
-  thumbnail:
-  desc: >
-    The Inspiring Students Project is a partnership between Pueblo communities and the Crow Canyon Archaeological Center to develop student programs focused on issues that Pueblo people themselves have identified as priorities: the preservation of their native languages, cultures, and histories; providing culturally relevant educational experiences that inspire students to succeed academically and professionally; and creating more economic opportunities within native communities.
+#- name: Inspiring Students
+#  tag: INSPIRE
+#  url: http://www.crowcanyon.org/index.php/inspiring-students-project
+#  date: 2014–now
+#  thumbnail:
+#  desc: >
+#    The Inspiring Students Project is a partnership between Pueblo communities and the Crow Canyon Archaeological Center to develop student programs focused on issues that Pueblo people themselves have identified as priorities: the preservation of their native languages, cultures, and histories; providing culturally relevant educational experiences that inspire students to succeed academically and professionally; and creating more economic opportunities within native communities.
 
 - name: "PFP: The Pueblo Farming Project"
   tag: PFP
