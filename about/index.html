@@ -20,6 +20,11 @@ title: "About the Research Institute"
                 <div class="container">
                     <hr>
                     <h3>Mission</h3>
+                    {% capture my_include %}{% include mission.md %}{% endcapture %}
+                    {{ my_include | markdownify }}
+                    
+                    This is a <b>test</b>.
+                    
                 </div>
             </div>
         </section>

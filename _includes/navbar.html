@@ -13,8 +13,18 @@
 
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="{{ site.url }}/about/">ABOUT</a></li>
-                <li><a href="{{ site.url }}/news/">NEWS</a></li>
+                
+                <li class="dropdown">
+                    <a href="{{ site.url }}/people/" class="dropdown-toggle" data-toggle="dropdown">ABOUT<span class="caret"/></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="{{ site.url }}/about/">Overview</a></li>
+                        <li><a href="{{ site.url }}/about/#mission">Mission</a></li>
+                        <li><a href="{{ site.url }}/about/#leadership">Leadership</a></li>
+                        <li><a href="{{ site.url }}/about/#advisors">Advisory Board</a></li>
+                        <li><a href="{{ site.url }}/about/#ranch">Research Institute Ranch</a></li>
+                    </ul>
+                </li>
+                
                 <li class="dropdown">
                     <a href="{{ site.url }}/people/" class="dropdown-toggle" data-toggle="dropdown">PEOPLE<span class="caret"/></a>
                     <ul class="dropdown-menu">
@@ -22,10 +32,9 @@
                         <li><a href="{{ site.url }}/people/#staff">Staff</a></li>
                         <li><a href="{{ site.url }}/people/#volunteers">Volunteers</a></li>
                         <li><a href="{{ site.url }}/people/#associates">Associates</a></li>
-                        <li><a href="{{ site.url }}/about/#leadership">Leadership</a></li>
-                        <li><a href="{{ site.url }}/about/#advisors">Advisors</a></li>
                     </ul>
                 </li>
+                
                 <li class="dropdown">
                     <a href="{{ site.url }}/projects/" class="dropdown-toggle" data-toggle="dropdown">RESEARCH<span class="caret"/></a>
                     <ul class="dropdown-menu">
@@ -35,9 +44,15 @@
                         <li><a href="http://www.crowcanyon.org/index.php/access-our-research/site-reports-databases">CCAC Site Reports</a></li>
                     </ul>
                 </li>
+                
+                <li><a href="{{ site.url }}/news/">NEWS</a></li>
+                
                 <li><a href="{{ site.url }}/donate/">DONATE</a></li>
+                
                 <li><a href="mailto:institute@crowcanyon.org" target="_top">CONTACT</a></li>
+                
                 <li><a href="https://www.crowcanyon.org">CROWCANYON.ORG</a></li>
+                
             </ul>
 
         </div>
