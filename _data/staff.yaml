@@ -151,9 +151,11 @@
 - name: Becca Simon
   title: Field Archaeologist
   photo: becca_simon.jpg
-  url: 
+  url: https://crowcanyon.academia.edu/BeccaSimon
   projects:
-  desc:
+  desc: >
+    Becca is a multidisciplinary archaeologist interested in 
+    public outreach, archaeology education, and culture contact studies.
   
 #- name: Dan Simplicio
 #  title: Cultural Specialist
