@@ -113,7 +113,9 @@
   photo: devin_white.jpg
   url: /people/devin-white.html
   projects:
-  desc:
+  desc: >
+     Devin leverages GIScience, big data, and high performance 
+     computing to explore large, complex archaeological questions.
   
 - name: Richard Wilshusen
   title: Independent Researcher
