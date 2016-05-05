@@ -1,4 +1,5 @@
 - full_name: Bob Bernhart
+  sort: Bernhart, Bob
   tag: bob_bernhart
   title: Lab Volunteer
   url:
@@ -7,7 +8,17 @@
     Bob is an avocational archaeologist, cultural 
     site steward, and Crow Canyon lab volunteer.
   
+- full_name: Anne Dehnisch
+  sort: Dehnisch, Anne
+  tag: anne_dehnisch
+  title: Lab Volunteer
+  url:
+  projects:
+  desc: >
+    
+
 - full_name: Jane Dillard
+  sort: Dillard, Jane
   tag: jane_dillard
   title: Lab Volunteer
   url:
@@ -17,6 +28,7 @@
     BM III property in Montezuma County.
   
 - full_name: Nancy Evans
+  sort: Evans, Nancy
   tag: nancy_evans
   title: Library/Explorations Volunteer
   url:
@@ -24,6 +36,7 @@
   desc:
   
 - full_name: Ed Grein
+  sort: Grein, Ed
   tag: ed_grein
   title: Lab Volunteer
   url:
@@ -31,6 +44,7 @@
   desc:
   
 - full_name: Larry Keller
+  sort: Keller, Larry
   tag: larry_keller
   title: Lab Volunteer
   url:
@@ -38,6 +52,7 @@
   desc:
   
 - full_name: Robin Lyle
+  sort: Lyle, Robin
   tag: robin_lyle
   title: Lab Volunteer/Research Associate
   url:
@@ -47,6 +62,7 @@
     agriculture, turkey husbandry, and material cultures of the past.
   
 - full_name: Lew Matis
+  sort: Matis, Lew
   tag: lew_matis
   title: Lab Volunteer
   url:
@@ -54,6 +70,7 @@
   desc:
   
 - full_name: Bob McBride
+  sort: McBride, Bob
   tag: bob_mcbride
   title: Lab Volunteer
   url:
@@ -63,6 +80,7 @@
     and has 200+ sites recorded thus far with Colorado's OAHP.
   
 - full_name: Diane McBride
+  sort: McBride, Diane
   tag: diane_mcbride
   title: Lab Volunteer
   url:
@@ -72,6 +90,7 @@
     coordinator of the Site Stewardship, both supporting AHC and CANM.
   
 - full_name: Dave Melanson
+  sort: Melanson, Dave
   tag: dave_melanson
   title: Lab Volunteer
   url:
@@ -81,6 +100,7 @@
     trajectories of ancient and modern social transformations.
   
 - full_name: Susan Montgomery
+  sort: Montgomery, Susan
   tag: susan_montgomery
   title: Lab Volunteer
   url:
@@ -88,6 +108,7 @@
   desc:
   
 - full_name: Mary Schultz
+  sort: Schultz, Mary
   tag: mary_schultz
   title: Lab Volunteer
   url:

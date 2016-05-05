@@ -29,7 +29,7 @@ title: "About the Research Institute"
             <div class="row">
                     <hr>
                     <h3>Advisory Board</h3>
-                    {% assign theList = site.data.advisory_board %}
+                    {% assign theList = site.data.advisory_board | sort: 'sort' %}
                     {% include_relative people_flow.html %}
             </div>
         </section>

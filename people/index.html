@@ -32,7 +32,7 @@ title: "The Research Institute Community"
                     <br>
                     <br>
                     
-                    {% assign theList = site.data.staff %}
+                    {% assign theList = site.data.staff | sort: 'sort' %}
                     
                     {% include_relative people_flow.html %}
 
@@ -50,7 +50,7 @@ title: "The Research Institute Community"
                     <br>
                     <br>
 
-                    {% assign theList = site.data.volunteers %}
+                    {% assign theList = site.data.volunteers | sort: 'sort' %}
                     
                     {% include_relative people_flow.html %}
 
@@ -68,7 +68,7 @@ title: "The Research Institute Community"
                     <br>
                     <br>
 
-                    {% assign theList = site.data.associates %}
+                    {% assign theList = site.data.associates | sort: 'sort' %}
                     
                     {% include_relative people_flow.html %}
 

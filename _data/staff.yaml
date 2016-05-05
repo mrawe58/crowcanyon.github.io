@@ -1,4 +1,5 @@
 - full_name: Kyle Bocinsky
+  sort: Bocinsky, Kyle
   tag: kyle_bocinsky
   title: Director of Sponsored Projects
   url: http://bocinsky.io
@@ -8,6 +9,7 @@
     human-environment interactions in the past, present, and future.
 
 - full_name: David Boyle
+  sort: Boyle, David
   tag: david_boyle
   title: Explorations Coordinator
   url: 
@@ -17,6 +19,7 @@
     Department as a travel coordinator and guide.
 
 - full_name: Kate Cochran
+  sort: Cochran, Kate
   tag: kate_cochran
   title: Archaeology Laboratory Assistant
   url: 
@@ -26,6 +29,7 @@
     Southwestern and Great Basin archaeology, and public archaeology.
 
 - full_name: Grant Coffey
+  sort: Coffey, Grant
   tag: grant_coffey
   title: Supervisory Archaeologist
   url: 
@@ -35,6 +39,7 @@
     organize, evolve, and interact with each other.
   
 - full_name: Anna Cole
+  sort: Cole, Anna
   tag: anna_cole
   title: Curriculum Developer
   url: 
@@ -42,6 +47,7 @@
   desc:
   
 - full_name: Steve Copeland
+  sort: Copeland, Steve
   tag: steve_copeland
   title: Field Archaeologist
   url: 
@@ -51,6 +57,7 @@
     aspects of archaeological investigations.
   
 - full_name: Shanna Diederichs
+  sort: Diederichs, Shanna
   tag: shanna_diederichs
   title: Supervisory Archaeologist
   url: 
@@ -58,6 +65,7 @@
   desc:
   
 - full_name: Paul Ermigiotti
+  sort: Ermigiotti, Paul
   tag: paul_ermigiotti
   title: Educator
   url: 
@@ -65,6 +73,7 @@
   desc:
   
 - full_name: Deborah Gangloff
+  sort: Gangloff, Deborah
   tag: deborah_gangloff
   title: President and Chief Executive Officer
   url: 
@@ -72,6 +81,7 @@
   desc:
   
 - full_name: Becky Hammond
+  sort: Hammond, Becky
   tag: becky_hammond
   title: Educator/American Indian Initiatives Coordinator
   url: 
@@ -79,6 +89,7 @@
   desc:
   
 - full_name: Tyson Hughes
+  sort: Hughes, Tyson
   tag: tyson_hughes
   title: Educator
   url: 
@@ -86,6 +97,7 @@
   desc:
   
 - full_name: Todd Kearns
+  sort: Kearns, Todd
   tag: todd_kearns
   title: Explorations Coordinator
   url: 
@@ -95,6 +107,7 @@
     and present cultural landscapes of the Southwest.
   
 - full_name: Kristin Kuckelman
+  sort: Kuckelman, Kristin
   tag: kristin_kuckelman
   title: Research Publications Manager
   url: 
@@ -104,6 +117,7 @@
     who studies violence, subsistence stress, and paleohydrology.
   
 - full_name: Michael Lorusso
+  sort: Lorusso, Michael
   tag: michael_lorusso
   title: Laboratory Education Coordinator
   url: 
@@ -113,6 +127,7 @@
       material culture, collections management, and public archaeology.
   
 - full_name: Jamie Merewether
+  sort: Merewether, Jamie
   tag: jamie_merewether
   title: Collections Manager
   url: 
@@ -127,6 +142,7 @@
 #  desc:
   
 - full_name: Sarah Payne
+  sort: Payne, Sarah
   tag: sarah_payne
   title: Director of Cultural Explorations
   url: https://www.linkedin.com/in/sarah-payne-6798931a
@@ -136,6 +152,7 @@
     of cultural tourism and experiential learning.
   
 - full_name: Shirley Powell
+  sort: Powell, Shirley
   tag: shirley_powell
   title: Vice President of Programs
   url: 
@@ -143,6 +160,7 @@
   desc:
   
 - full_name: Susan Ryan
+  sort: Ryan, Susan
   tag: susan_ryan
   title: Director of Archaeology
   url: 
@@ -152,6 +170,7 @@
     and community formation in the ancient Southwest.
   
 - full_name: Kari Schleher
+  sort: Schleher, Kari
   tag: kari_schleher
   title: Laboratory Manager
   url: https://crowcanyon.academia.edu/KariSchleher
@@ -161,6 +180,7 @@
     culture as a means of understanding past social relationships.
   
 - full_name: Becca Simon
+  sort: Simon, Becca
   tag: becca_simon
   title: Field Archaeologist
   url: https://crowcanyon.academia.edu/BeccaSimon
@@ -177,6 +197,7 @@
 #  desc:
   
 - full_name: Caitlin Sommer
+  sort: Sommer, Caitlin
   tag: caitlin_sommer
   title: Supervisory Archaeologist
   url: 
@@ -186,6 +207,7 @@
     knowledge gained in the past to inform the present.
   
 - full_name: Kathy Stemmler
+  sort: Stemmler, Kathy
   tag: kathy_stemmler
   title: Director of Education
   url: 
@@ -193,6 +215,7 @@
   desc:
   
 - full_name: Kate Thompson
+  sort: Thompson, Kate
   tag: kate_thompson
   title: Explorations Coordinator
   url: 
@@ -202,6 +225,7 @@
     as an adventure-travel coordinator and guide.
 
 - full_name: Mark Varien
+  sort: Varien, Mark
   tag: mark_varien
   title: Executive Vice President of the Research Institute
   url: 
