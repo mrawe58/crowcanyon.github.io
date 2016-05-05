@@ -5,35 +5,29 @@ title: "The Research Institute Projects"
 
 <div class="row">
     <div class="container">
-        
-        
-        <section class="about col-sm-8" id="Active Projects">
+           
+        <section class="about" id="Active Projects">
             <div class="row">
-                <div class="container">
-                    <h3>Active Projects at Crow Canyon</h3>
+                
+                <h3>Active Projects at Crow Canyon</h3>
                     
-                    {% assign theList = site.data.projects_active | sort: 'date' %}
-                    {% include_relative project_flow.html %}
+                {% assign theList = site.data.projects_active | sort: 'date' %}
+                {% include_relative project_flow.html %}
 
-                </div>
             </div>
         </section>
         
-        <section class="about col-sm-8" id="Legacy Projects">
+        <section class="about" id="Legacy Projects">
             <div class="row">
-                <div class="container">
-                    <hr>
-                    <h3>Legacy Projects at Crow Canyon</h3>
+                <hr>
+                <h3>Legacy Projects at Crow Canyon</h3>
                     
-                    {% assign theList = site.data.projects_legacy | sort: 'date' %}
-                    {% include_relative project_flow.html %}
+                {% assign theList = site.data.projects_legacy | sort: 'date' %}
+                {% include_relative project_flow.html %}
 
-                </div>
             </div>
         </section>
         
-        
-    
         <hr />
     </div>
 </div>
