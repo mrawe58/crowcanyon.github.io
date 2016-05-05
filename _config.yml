@@ -15,4 +15,4 @@ page_gen:
   - data: 'associates'
     template: 'person'
     name: 'tag'
-    dir: 'people'
+    dir: 'people/associates'

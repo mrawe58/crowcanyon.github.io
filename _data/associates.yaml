@@ -1,7 +1,7 @@
 - full_name: Karen Adams
   tag: karen_adams
   title: Independent Researcher
-  url: /people/karen_adams.html
+  url: /people/associates/karen_adams.html
   email: kadams@crowcanyon.org
   web: 
   projects:
@@ -17,7 +17,7 @@
 - full_name: Fumi Arakawa
   tag: fumi_arakawa
   title: New Mexico State University
-  url: /people/fumi_arakawa.html
+  url: /people/associates/fumi_arakawa.html
   email: farakawa@ad.nmsu.edu
   web: http://anthropology.nmsu.edu/anth-faculty/f-arakawa/
   projects:
@@ -33,7 +33,7 @@
 - full_name: Jon Driver
   tag: jon_driver
   title: Simon Fraser University
-  url: /people/jon_driver.html
+  url: /people/associates/jon_driver.html
   email: driver@sfu.ca
   web: http://www.sfu.ca/archaeology/faculty/driver.html
   projects:
@@ -51,7 +51,7 @@
   title: Earlham College
   email: fademcy@earlham.edu
   web: https://sites.google.com/site/cfadem/
-  url: /people/cynthia_fadem.html
+  url: /people/associates/cynthia_fadem.html
   projects:
     - Pueblo Farming Project
     - Basketmaker Communities Project
@@ -64,7 +64,7 @@
 - full_name: Donna Glowacki
   tag: donna_glowacki
   title: University of Notre Dame
-  url: /people/donna_glowacki.html
+  url: /people/associates/donna_glowacki.html
   email: glowacki.3@nd.edu
   web: http://anthropology.nd.edu/faculty-and-staff/faculty-by-alpha/donna-glowacki/
   projects:
@@ -81,7 +81,7 @@
   tag: tim_kohler
   title: Washington State University
   email: tako@wsu.edu
-  url: /people/tim_kohler.html
+  url: /people/associates/tim_kohler.html
   web: http://libarts.wsu.edu/anthro/faculty/kohler.html
   projects:
     - Village Ecodynamics Project
@@ -95,7 +95,7 @@
 - full_name: Steve Lekson
   tag: steve_lekson
   title: University of Colorado, Boulder
-  url: /people/steve_lekson.html
+  url: /people/associates/steve_lekson.html
   email: lekson@colorado.edu
   web: https://anthropology.colorado.edu/directory/faculty-bios/steve-lekson/
   projects:
@@ -109,7 +109,7 @@
   tag: bill_lipe
   title: Washington State University
   email: lipe@wsu.edu
-  url: /people/bill_lipe.html
+  url: /people/associates/bill_lipe.html
   projects:
   desc:
   desc_long: |
@@ -120,7 +120,7 @@
 - full_name: Robin Lyle
   tag: robin_lyle
   title: Independent Researcher
-  url: /people/robin_lyle.html
+  url: /people/associates/robin_lyle.html
   email: rlyle@crowcanyon.org
   web: 
   projects:
@@ -137,7 +137,7 @@
   title: University of Nevada, Las Vegas
   email: debra.martin@unlv.edu
   web: https://www.unlv.edu/people/debra-martin
-  url: /people/deb_martin.html
+  url: /people/associates/deb_martin.html
   projects:
   desc: >
     Deb does research that investigates the origins 
@@ -150,7 +150,7 @@
 - full_name: Lisa Nagaoka
   tag: lisa_nagaoka
   title: University of North Texas
-  url: /people/lisa_nagaoka.html
+  url: /people/associates/lisa_nagaoka.html
   email: lnagaoka@unt.edu
   web: http://nagaoka.weebly.com
   projects:
@@ -164,7 +164,7 @@
 - full_name: Scott Ortman
   tag: scott_ortman
   title: University of Colorado, Boulder
-  url: /people/scott_ortman.html
+  url: /people/associates/scott_ortman.html
   email: scott.ortman@colorado.edu
   web: http://www.colorado.edu/anthropology/gradstudy/scott-ortman
   projects:
@@ -180,7 +180,7 @@
 - full_name: Jim Potter
   tag: jim_potter
   title: PaleoWest Archaeology
-  url: /people/jim_potter.html
+  url: /people/associates/jim_potter.html
   email: jpotter@paleowest.com
   web: 
   projects:
@@ -195,7 +195,7 @@
 - full_name: Laurie Webster
   tag: laurie_webster
   title: Independent Researcher
-  url: /people/laurie_webster.html
+  url: /people/associates/laurie_webster.html
   email: ldwebster5@gmail.com
   web: 
   projects:
@@ -211,7 +211,7 @@
   title: Oak Ridge National Laboratory
   email: whiteda1@ornl.gov
   web: http://web.ornl.gov/sci/gist/staff_bios/staff_whited.shtml
-  url: /people/devin_white.html
+  url: /people/associates/devin_white.html
   projects:
   desc: >
      Devin leverages GIScience, big data, and high performance 
@@ -224,7 +224,7 @@
 - full_name: Richard Wilshusen
   tag: richard_wilshusen
   title: Independent Researcher
-  url: /people/richard_wilshusen.html
+  url: /people/associates/richard_wilshusen.html
   email: rhw1883@gmail.com
   web: 
   projects:
@@ -237,7 +237,7 @@
 - full_name: Steve Wolverton
   tag: steve_wolverton
   title: University of North Texas
-  url: /people/steve_wolverton.html
+  url: /people/associates/steve_wolverton.html
   email: wolverton@unt.edu
   web: http://wolvertonunt.weebly.com
   projects:
