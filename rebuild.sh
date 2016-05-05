@@ -2,6 +2,8 @@
 ## Rebuild
 
 jekyll clean
+jekyll clean
 jekyll build
-cp -r _site/people/associates people/associates
+rm -r people/associates
+cp -r _site/people/associates people
 
