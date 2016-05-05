@@ -24,7 +24,9 @@
             <div class="text-center">
                 
                 <img class="img-responsive img-rounded" src="{{ site.url }}/assets/common-files/img/projects/{{project.tag}}.jpg">
-            
+                {% if project.caption %}
+                    <br> {{ project.caption }}
+                {% endif %}
             </div>
         </div>
         
