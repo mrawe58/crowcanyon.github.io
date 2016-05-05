@@ -1,98 +1,97 @@
-- name: Bob Bernhart
+- full_name: Bob Bernhart
+  tag: bob_bernhart
   title: Lab Volunteer
-  photo: bob_bernhart.jpg
   url:
   projects:
   desc: >
     Bob is an avocational archaeologist, cultural 
     site steward, and Crow Canyon lab volunteer.
   
-- name: Jane Dillard
+- full_name: Jane Dillard
+  tag: jane_dillard
   title: Lab Volunteer
-  photo: jane_dillard.jpg
   url:
   projects:
   desc: >
     Jane is just grateful that she has the choicest 
     BM III property in Montezuma County.
   
-- name: Nancy Evans
+- full_name: Nancy Evans
+  tag: nancy_evans
   title: Library/Explorations Volunteer
-  photo: nancy_evans.jpg
   url:
   projects:
   desc:
   
-- name: Ed Grein
+- full_name: Ed Grein
+  tag: ed_grein
   title: Lab Volunteer
-  photo: ed_grein.jpg
   url:
   projects:
   desc:
   
-- name: Larry Keller
+- full_name: Larry Keller
+  tag: larry_keller
   title: Lab Volunteer
-  photo: larry_keller.jpg
   url:
   projects:
   desc:
   
-- name: Robin Lyle
+- full_name: Robin Lyle
+  tag: robin_lyle
   title: Lab Volunteer/Research Associate
-  photo: robin_lyle.jpg
   url:
   projects:
   desc: >
     Robin is a poultry research scientist interested in ancient 
     agriculture, turkey husbandry, and material cultures of the past.
   
-- name: Lew Matis
+- full_name: Lew Matis
+  tag: lew_matis
   title: Lab Volunteer
-  photo: lew_matis.jpg
   url:
   projects:
   desc:
   
-- name: Bob McBride
+- full_name: Bob McBride
+  tag: bob_mcbride
   title: Lab Volunteer
-  photo: bob_mcbride.jpg
   url:
   projects:
   desc: >
     Bob enjoys recording ancient sites on private property 
     and has 200+ sites recorded thus far with Colorado's OAHP.
   
-- name: Diane McBride
+- full_name: Diane McBride
+  tag: diane_mcbride
   title: Lab Volunteer
-  photo: diane_mcbride.jpg
   url:
   projects:
   desc: >
     Diane is the Director of Southwest Colorado Canyons Alliance and 
     coordinator of the Site Stewardship, both supporting AHC and CANM.
   
-- name: Dave Melanson
+- full_name: Dave Melanson
+  tag: dave_melanson
   title: Lab Volunteer
-  photo: dave_melanson.jpg
   url:
   projects:
   desc: >
     Dave is exploring the causes, effects, and cultural 
     trajectories of ancient and modern social transformations.
   
-- name: Susan Montgomery
+- full_name: Susan Montgomery
+  tag: susan_montgomery
   title: Lab Volunteer
-  photo: susan_montgomery.jpg
   url:
   projects:
   desc:
   
-- name: Mary Schultz
+- full_name: Mary Schultz
+  tag: mary_schultz
   title: Lab Volunteer
-  photo: mary_schultz.jpg
   url:
   projects:
   desc: >
     Mary is passionate about analyzing 
     artifacts and preparing them for curation.
-  

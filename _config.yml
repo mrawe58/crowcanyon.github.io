@@ -1,4 +1,4 @@
-permalink: /:categories/:title
+permalink: /blog/:categories/:title
 
 paginate_path: "news/page:num"
 paginate: 3
@@ -10,3 +10,9 @@ encoding: utf-8
 gems: ['jekyll-paginate']
 
 exclude: ['*.Rmd']
+
+page_gen:
+  - data: 'associates'
+    template: 'person'
+    name: 'tag'
+    dir: 'people'

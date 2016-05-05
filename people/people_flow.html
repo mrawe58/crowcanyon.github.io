@@ -16,8 +16,8 @@
                                         {% endif %}
                                                 
                                             <div class="photo" style="background-image: url({{ site.url }}/assets/common-files/img/people
-                                                                      /{{person.photo}});">
-                                                <img src="{{ site.url }}/assets/common-files/img/people/{{person.photo}}" alt="" style="display: none;">
+                                                                      /{{person.tag}}.jpg);">
+                                                <img src="{{ site.url }}/assets/common-files/img/people/{{person.tag}}.jpg" alt="" style="display: none;">
                                             </div>
                                         {% if person.url %}        
                                             </a>
@@ -28,7 +28,7 @@
                                             {% if person.url %}
                                                 <a href="{{person.url}}" target="_blank">
                                             {% endif %}
-                                                {{person.name}}
+                                                {{person.full_name}}
                                             {% if person.url %}
                                                 </a>
                                             {% endif %}

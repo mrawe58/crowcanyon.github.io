@@ -5,81 +5,35 @@ title: "The Research Institute Projects"
 
 <div class="row">
     <div class="container">
-        <section class="crew-3  col-sm-8">
+        
+        
+        <section class="about col-sm-8" id="Active Projects">
             <div class="row">
                 <div class="container">
                     <h3>Active Projects at Crow Canyon</h3>
-                    <p></p>
+                    
+                    {% assign theList = site.data.projects_active | sort: 'date' %}
+                    {% include_relative project_flow.html %}
+
                 </div>
             </div>
         </section>
+        
+        <section class="about col-sm-8" id="Legacy Projects">
+            <div class="row">
+                <div class="container">
+                    <hr>
+                    <h3>Legacy Projects at Crow Canyon</h3>
+                    
+                    {% assign theList = site.data.projects_legacy | sort: 'date' %}
+                    {% include_relative project_flow.html %}
 
-            <div class="row-fluid">
-            
-                {% for project in site.data.projects %}
-            
-                <div class="col-xs-12">
-                    {% if project.url %}
-                        <h2>
-                            <a href="{{ project.url }}">
-                                {{ project.name }}
-                            </a>
-                        </h2>
-                    {% else %}
-                        <h2>
-                            {{ project.name }}
-                        </h2>
-                    {% endif %}
                 </div>
-            
-                <div class="clearfix"></div>
-                <br>
-            
-                <div class="col-xs-4">
-                    <div class="text-center">
-                        {% if project.thumbnail %}
-                            {% if project.thumbnail contains "//" %}
-                                {% capture thumbnail %}
-                                    {{ project.thumbnail }}
-                                {% endcapture %}
-                            {% else %}
-                                {% capture thumbnail %}
-                                    {{ project.thumbnail | prepend: site.baseurl }}
-                                {% endcapture %}
-                            {% endif %}
-                            <img class="img-responsive img-rounded" src="{{ thumbnail }}" width="400">
-                        {% else %}
-                            <h1 class="poorman-thumbnail" style="background: {% cycle 'c': " #48c ", "#fa4 ", "#5b5 ", "#d54 " %};">
-                                {{ project.name | truncate: 1, '' }}
-                            </h1>
-                        {% endif %}
-                    </div>
-                </div>
-            
-                <div class="col-xs-8">
-                    <p>
-                        {% if project.date %}
-                            <span class="label label-info">
-                                <i class="fa fa-calendar-o"></i>
-                                {{ project.date }}
-                            </span>
-                        {% endif %}
-                
-                    </p>
-                    {{ project.desc | markdownify }}
-                </div>
+            </div>
+        </section>
         
-                <div class="clearfix"></div>
-            
-                {% unless forloop.last %}
-                    <div class="col-xs-12">
-                        <hr />
-                    </div>
-                {% endunless %}
-            
-            {% endfor %}
         
-        </div>
+    
         <hr />
     </div>
 </div>

@@ -1,0 +1,44 @@
+#- name: Inspiring Students
+#  tag: INSPIRE
+#  url: http://www.crowcanyon.org/index.php/inspiring-students-project
+#  date: 2014–now
+#  desc: >
+#    The Inspiring Students Project is a partnership between Pueblo communities and the Crow Canyon Archaeological Center to develop student programs focused on issues that Pueblo people themselves have identified as priorities: the preservation of their native languages, cultures, and histories; providing culturally relevant educational experiences that inspire students to succeed academically and professionally; and creating more economic opportunities within native communities.
+
+- name: "The Sand Canyon Archaeological Project"
+  tag: sand_canyon
+  url:
+  date: 1983–1993
+  desc: >
+    ...
+    
+- name: "The Village Mapping Project"
+  tag: village_mapping
+  url:
+  date: 1993–1995
+  thumbnail:
+  desc: >
+    ...
+    
+- name: "The Village Testing Project"
+  tag: village_testing
+  url:
+  date: 1994–1997
+  desc: >
+     Limited testing at Woods Canyon Pueblo, Yellow Jacket Pueblo, and the Hedley Site Complex.
+
+- name: "Communities Through Time: Migration, Cooperation, and Conflict"
+  tag: communities
+  url:
+  date: 1997–2004
+  desc: >
+    Excavations at Shields Pueblo in the Sand Canyon locality and at Albert Porter Pueblo in the Woods Canyon locality.
+
+- name: "The Goodman Point Archaeological Project"
+  tag: goodman
+  url:
+  date: 2005–2010
+  desc: >
+    The Goodman Point Archaeological Project builds on the preceding community studies and involves excavations at the large village of Goodman Point Pueblo and surrounding smaller sites.
+
+    

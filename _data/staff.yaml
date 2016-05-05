@@ -1,207 +1,207 @@
-- name: Kyle Bocinsky
+- full_name: Kyle Bocinsky
+  tag: kyle_bocinsky
   title: Director of Sponsored Projects
-  photo: kyle_bocinsky.jpg
   url: http://bocinsky.io
   projects: [vep,pfp,skope]
   desc: >
     Kyle is a computational archaeologist interested in 
     human-environment interactions in the past, present, and future.
 
-- name: David Boyle
+- full_name: David Boyle
+  tag: david_boyle
   title: Explorations Coordinator
-  photo: david_boyle.jpg
   url: 
   projects:
   desc: >
     David works for the Cultural Explorations 
     Department as a travel coordinator and guide.
 
-- name: Kate Cochran
+- full_name: Kate Cochran
+  tag: kate_cochran
   title: Archaeology Laboratory Assistant
-  photo: kate_cochran.jpg
   url: 
   projects:
   desc: >
     Kate is interested lithic and textile technologies, 
     Southwestern and Great Basin archaeology, and public archaeology.
 
-- name: Grant Coffey
+- full_name: Grant Coffey
+  tag: grant_coffey
   title: Supervisory Archaeologist
-  photo: grant_coffey.jpg
   url: 
   projects: [pfp]
   desc: >
     Grant is interested in how communities 
     organize, evolve, and interact with each other.
   
-- name: Anna Cole
+- full_name: Anna Cole
+  tag: anna_cole
   title: Curriculum Developer
-  photo: anna_cole.jpg
   url: 
   projects:
   desc:
   
-- name: Steve Copeland
+- full_name: Steve Copeland
+  tag: steve_copeland
   title: Field Archaeologist
-  photo: steve_copeland.jpg
   url: 
   projects:
   desc: >
     Steve is interested in teaching the field 
     aspects of archaeological investigations.
   
-- name: Shanna Diederichs
+- full_name: Shanna Diederichs
+  tag: shanna_diederichs
   title: Supervisory Archaeologist
-  photo: shanna_diederichs.jpg
   url: 
   projects:
   desc:
   
-- name: Paul Ermigiotti
+- full_name: Paul Ermigiotti
+  tag: paul_ermigiotti
   title: Educator
-  photo: paul_ermigiotti.jpg
   url: 
   projects:
   desc:
   
-- name: Deborah Gangloff
+- full_name: Deborah Gangloff
+  tag: deborah_gangloff
   title: President and Chief Executive Officer
-  photo: deborah_gangloff.jpg
   url: 
   projects:
   desc:
   
-- name: Becky Hammond
+- full_name: Becky Hammond
+  tag: becky_hammond
   title: Educator/American Indian Initiatives Coordinator
-  photo: becky_hammond.jpg
   url: 
   projects:
   desc:
   
-- name: Tyson Hughes
+- full_name: Tyson Hughes
+  tag: tyson_hughes
   title: Educator
-  photo: tyson_hughes.jpg
   url: 
   projects:
   desc:
   
-- name: Todd Kearns
+- full_name: Todd Kearns
+  tag: todd_kearns
   title: Explorations Coordinator
-  photo: todd_kearns.jpg
   url: 
   projects:
   desc:
   
-- name: Kristin Kuckelman
+- full_name: Kristin Kuckelman
+  tag: kristin_kuckelman
   title: Research Publications Manager
-  photo: kristin_kuckelman.jpg
   url: 
   projects:
   desc: >
     Kristin is a research archaeologist, writer, and editor 
     who studies violence, subsistence stress, and paleohydrology.
   
-- name: Michael Lorusso
+- full_name: Michael Lorusso
+  tag: michael_lorusso
   title: Laboratory Education Coordinator
-  photo: michael_lorusso.jpg
   url: 
   projects:
   desc: >
       Michael is a lab archaeologist interested in southwest 
       material culture, collections management, and public archaeology.
   
-- name: Jamie Merewether
+- full_name: Jamie Merewether
+  tag: jamie_merewether
   title: Collections Manager
-  photo: jamie_merewether.jpg
   url: 
   projects:
   desc:
   
-#- name: Sharon Milholland
+#- full_name: Sharon Milholland
+#  tag: sharon_milholland
 #  title: Director of Programs
-#  photo: sharon_milholland.jpg
 #  url: 
 #  projects:
 #  desc:
   
-- name: Sarah Payne
+- full_name: Sarah Payne
+  tag: sarah_payne
   title: Director of Cultural Explorations
-  photo: sarah_payne.jpg
   url: https://www.linkedin.com/in/sarah-payne-6798931a
   projects:
   desc: >
     Sarah is an anthropologist interested in the impact 
     of cultural tourism and experiential learning.
   
-- name: Shirley Powell
+- full_name: Shirley Powell
+  tag: shirley_powell
   title: Vice President of Programs
-  photo: shirley_powell.jpg
   url: 
   projects:
   desc:
   
-- name: Susan Ryan
+- full_name: Susan Ryan
+  tag: susan_ryan
   title: Director of Archaeology
-  photo: susan_ryan.jpg
   url: 
   projects:
   desc: >
     Susan is a scientist who researches the built environment 
     and community formation in the ancient Southwest.
   
-- name: Kari Schleher
+- full_name: Kari Schleher
+  tag: kari_schleher
   title: Laboratory Manager
-  photo: kari_schleher.jpg
   url: https://crowcanyon.academia.edu/KariSchleher
   projects:
   desc: >
     Kari is an anthropological archaeologist interested in material 
     culture as a means of understanding past social relationships.
   
-- name: Becca Simon
+- full_name: Becca Simon
+  tag: becca_simon
   title: Field Archaeologist
-  photo: becca_simon.jpg
   url: https://crowcanyon.academia.edu/BeccaSimon
   projects:
   desc: >
     Becca is a multidisciplinary archaeologist interested in 
     public outreach, archaeology education, and culture contact studies.
   
-#- name: Dan Simplicio
+#- full_name: Dan Simplicio
+#  tag: dan_simplicio
 #  title: Cultural Specialist
-#  photo: dan_simplicio.jpg
 #  url: 
 #  projects:
 #  desc:
   
-- name: Caitlin Sommer
+- full_name: Caitlin Sommer
+  tag: caitlin_sommer
   title: Supervisory Archaeologist
-  photo: caitlin_sommer.jpg
   url: 
   projects:
   desc: >
     Caitlin is a field archaeologist interested in using 
     knowledge gained in the past to inform the present.
   
-- name: Kathy Stemmler
+- full_name: Kathy Stemmler
+  tag: kathy_stemmler
   title: Director of Education
-  photo: kathy_stemmler.jpg
   url: 
   projects:
   desc:
   
-- name: Kate Thompson
+- full_name: Kate Thompson
+  tag: kate_thompson
   title: Explorations Coordinator
-  photo: kate_thompson.jpg
   url: 
   projects:
   desc: >
     Kate works for the Cultural Explorations Department 
     as an adventure-travel coordinator and guide.
 
-- name: Mark Varien
+- full_name: Mark Varien
+  tag: mark_varien
   title: Executive Vice President of the Research Institute
-  photo: mark_varien.jpg
   url: 
   projects:
   desc:
