@@ -3,45 +3,52 @@ layout: dummy_page
 title: "About the Research Institute"
 ---
 
-    <div class="container">
+<div class="container">
+    <section class="about">
+        <div class="row">
 
-        <section class="about">
-            <div class="row">
+            {% capture my_include %}{% include_relative mission.md %}{% endcapture %}
+            {{ my_include | markdownify }}
 
-                    {% capture my_include %}{% include_relative mission.md %}{% endcapture %}
-                    {{ my_include | markdownify }}
-                
-            </div>
-        </section>
+        </div>
+    </section>
+</div>
 
-        <section class="about" id="leadership">
-            <div class="row">
-                    <hr>
-                    <h3>Leadership</h3>
-                    {% assign theList = site.data.leadership %}
-                    {% include_relative people_flow.html %}
-                
-            </div>
-        </section>
+<div class="container">
+    <section class="about" id="leadership">
+        <div class="row">
+            
+            <hr>
+            <h3>Leadership</h3>
+            {% assign theList = site.data.leadership %}
+            {% include_relative people_flow.html %}
 
-        <!--/.container-->
-        <section class="about" id="advisors">
-            <div class="row">
-                    <hr>
-                    <h3>Advisory Board</h3>
-                    {% assign theList = site.data.advisory_board | sort: 'sort' %}
-                    {% include_relative people_flow.html %}
-            </div>
-        </section>
+        </div>
+    </section>
+</div>
+
+<div class="container">
+    <section class="about" id="advisors">
+        <div class="row">
+            
+            <hr>
+            <h3>Advisory Board</h3>
+            {% assign theList = site.data.advisory_board | sort: 'sort' %}
+            {% include_relative people_flow.html %}
         
-        <section class="about" id="ranch">
-            <div class="row">
-                    <hr>
-                    {% capture my_include %}{% include_relative ranch.md %}{% endcapture %}
-                    {{ my_include | markdownify }}
-            </div>
-        </section>
+        </div>
+    </section>
+</div>
 
+<div class="container">
+    <section class="about" id="ranch">
+        <div class="row">
+            
+            <hr>
+            <h3>The Research Institute Ranch</h3>
+        
+        </div>
+    </section>
+</div>
 
-
-    </div>
+<img class="img-responsive" src="/assets/common-files/img/content/ranch_wide_front.jpg">
