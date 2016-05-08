@@ -1,5 +1,5 @@
 
-!['research institute website'](http://crowcanyon.github.io/assets/common-files/img/content/Institute_logo_complete.svg)
+!['research institute website'](http://crowcanyon.github.io/assets/common-files/img/content/Institute_logo.svg)
 
 #### Welcome!
 
