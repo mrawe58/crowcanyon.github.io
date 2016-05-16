@@ -38,13 +38,13 @@
     Grant is interested in how communities 
     organize, evolve, and interact with each other.
   
-- full_name: Anna Cole
-  sort: Cole, Anna
-  tag: anna_cole
-  title: Curriculum Developer
-  url: 
-  projects:
-  desc:
+#- full_name: Anna Cole
+#  sort: Cole, Anna
+#  tag: anna_cole
+#  title: Curriculum Developer
+#  url: 
+#  projects:
+#  desc:
   
 - full_name: Steve Copeland
   sort: Copeland, Steve
@@ -69,34 +69,36 @@
 - full_name: Paul Ermigiotti
   sort: Ermigiotti, Paul
   tag: paul_ermigiotti
-  title: Educator
+  title: Educator Archaeologist
   url: 
   projects:
-  desc:
+  desc: >
+    Paul is interested in natural history, pottery replication, 
+    corn domestication and its importance in pueblo culture.
   
-- full_name: Deborah Gangloff
-  sort: Gangloff, Deborah
-  tag: deborah_gangloff
-  title: President and Chief Executive Officer
-  url: 
-  projects:
-  desc:
+#- full_name: Deborah Gangloff
+#  sort: Gangloff, Deborah
+#  tag: deborah_gangloff
+#  title: President and Chief Executive Officer
+#  url: 
+#  projects:
+#  desc:
   
-- full_name: Becky Hammond
-  sort: Hammond, Becky
-  tag: becky_hammond
-  title: Educator/American Indian Initiatives Coordinator
-  url: 
-  projects:
-  desc:
+#- full_name: Becky Hammond
+#  sort: Hammond, Becky
+#  tag: becky_hammond
+#  title: Educator/American Indian Initiatives Coordinator
+#  url: 
+#  projects:
+#  desc:
   
-- full_name: Tyson Hughes
-  sort: Hughes, Tyson
-  tag: tyson_hughes
-  title: Educator
-  url: 
-  projects:
-  desc:
+#- full_name: Tyson Hughes
+#  sort: Hughes, Tyson
+#  tag: tyson_hughes
+#  title: Educator
+#  url: 
+#  projects:
+#  desc:
   
 - full_name: Todd Kearns
   sort: Kearns, Todd
@@ -153,13 +155,13 @@
     Sarah is an anthropologist interested in the impact 
     of cultural tourism and experiential learning.
   
-- full_name: Shirley Powell
-  sort: Powell, Shirley
-  tag: shirley_powell
-  title: Vice President of Programs
-  url: 
-  projects:
-  desc:
+#- full_name: Shirley Powell
+#  sort: Powell, Shirley
+#  tag: shirley_powell
+#  title: Vice President of Programs
+#  url: 
+#  projects:
+#  desc:
   
 - full_name: Susan Ryan
   sort: Ryan, Susan
@@ -208,13 +210,13 @@
     Caitlin is a field archaeologist interested in using 
     knowledge gained in the past to inform the present.
   
-- full_name: Kathy Stemmler
-  sort: Stemmler, Kathy
-  tag: kathy_stemmler
-  title: Director of Education
-  url: 
-  projects:
-  desc:
+#- full_name: Kathy Stemmler
+#  sort: Stemmler, Kathy
+#  tag: kathy_stemmler
+#  title: Director of Education
+#  url: 
+#  projects:
+#  desc:
   
 - full_name: Kate Thompson
   sort: Thompson, Kate
