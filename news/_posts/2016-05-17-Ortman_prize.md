@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Research Associate Scott Ortman wins prestigious Linda S. Cordell Prize 
+title: Scott Ortman wins prestigious Linda S. Cordell Prize 
 date: 2016-05-17
 authors:
   - name: Kyle Bocinsky
