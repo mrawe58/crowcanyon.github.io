@@ -544,6 +544,13 @@ section * {
     color: #7f8c8d;
 }
 
+.content-1 ul li {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    color: #7f8c8d;
+}
+
 .content-1 .features {
     margin-top: 120px;
 }
