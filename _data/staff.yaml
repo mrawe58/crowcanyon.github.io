@@ -184,6 +184,16 @@
   desc: >
     Kari is an anthropological archaeologist interested in material 
     culture as a means of understanding past social relationships.
+    
+- full_name: Dylan Schwindt
+  sort: Schwindt, Dylan
+  tag: dylan_schwindt
+  title: Systems Administrator
+  url: 
+  projects:
+  desc: >
+     Dylan is interested in applying innovative solutions in database systems, 
+     GIScience, and advanced computing technology to archaeological research and education programs.
   
 - full_name: Becca Simon
   sort: Simon, Becca
