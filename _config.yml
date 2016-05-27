@@ -11,6 +11,9 @@ gems: ['jekyll-paginate']
 
 exclude: ['*.Rmd']
 
+# Google services
+google_analytics: UA-78448357-1
+
 page_gen:
   - data: 'associates'
     template: 'person'
