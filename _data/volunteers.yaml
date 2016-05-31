@@ -7,6 +7,16 @@
   desc: >
     Bob is an avocational archaeologist, cultural 
     site steward, and Crow Canyon lab volunteer.
+    
+- full_name: Read Brugger
+  sort: Brugger, Read
+  tag: read_brugger
+  title: PFP Volunteer
+  url:
+  projects:
+  desc: >
+    Read is excited to explore the intersection of Pueblo farmers' 
+    enduring agricultural practices and today's rapidly changing climate.
   
 - full_name: Anne Dehnisch
   sort: Dehnisch, Anne
@@ -122,3 +132,4 @@
   desc: >
     Mary is passionate about analyzing 
     artifacts and preparing them for curation.
+    
