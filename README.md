@@ -84,5 +84,5 @@ $ git push
 The Jekyll website will be automatically re-built by GitHub upon committing to the remote repository, and your changes will be reflected on the live website.
 
 ##### Permissions
-To request push permissions for this repository, please contact the IT helpdesk at Crow Canyon: [help@crowcanyon.org](mailto:help@crowcanyon.org).
+To request push permissions for this repository, please contact the Research Institute at Crow Canyon: [institute@crowcanyon.org](mailto:institute@crowcanyon.org).
 
